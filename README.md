@@ -1,5 +1,6 @@
 ````markdown
 # OgistoInjection
+[![NuGet](https://img.shields.io/nuget/dt/Ogisto.OgistoInjection.svg)](https://www.nuget.org/packages/Ogisto.OgistoInjection/)
 
 **OgistoInjection** is a lightweight .NET library that provides automatic dependency injection (DI) registration using custom attributes. No more manual service registration—just decorate your classes and call one method!
 
